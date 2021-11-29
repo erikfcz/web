@@ -1,0 +1,30 @@
+<!Doctype html>
+<html>
+
+<meta charset="utf-8">
+<link rel="stylesheet" type:"text/css">
+href=""Stylesheet"><Prueba/estilo.css>
+
+<header>
+<title>practica 
+</title>
+</header>
+
+<body>
+
+<div class="imagen">
+<a href="http://www.tecnm.mx"><img src="imagen1.jpg"
+height:"100px" width:"100px";>
+
+<p>esto es un parrafo
+<h1>primer comentario
+</h1>
+<hr>
+<h2>segundo
+</h2>
+
+<footer>Todos los derechos reservados
+</footer>
+
+</body>
+</html>

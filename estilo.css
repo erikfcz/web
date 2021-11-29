@@ -1,0 +1,27 @@
+body{
+background-color:pink;
+}
+p{
+text-align:center;
+margin-top:auto;
+color:blue;
+border:3px solid red;
+}
+h1{
+text-align:center;
+}
+h2{
+text-align:center;
+}
+.imagen{
+text-align:left;
+height:100px;
+width:100px;
+border:1px solid blue;
+}
+.center{
+text-align:center;
+}
+footer{
+text-align:center; 
+}
